@@ -4,7 +4,7 @@ This is a full stack web application and its a clone of airbnb which is a bookin
 # Working
 https://github.com/Techanmolporwal/brostay/assets/89104678/29fc3d61-3ca8-4a1d-9fa0-ea0b538f963d
 
-#features
+#Features
 
 -> For Host
 * Register your places.
@@ -16,3 +16,14 @@ https://github.com/Techanmolporwal/brostay/assets/89104678/29fc3d61-3ca8-4a1d-9f
 * Book places with number of guests and flexiable checkin & checkout time.
 * Check all images and nearby places of stay.
 * Print booked recipt.
+
+# Commands
+-> npm install 
+
+* Terminal 1
+-> cd client
+-> npm run start
+
+* Terminal 2
+-> cd api
+-> npm run start
