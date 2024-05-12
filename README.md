@@ -2,7 +2,7 @@
 This is a full-stack web application and it's a clone of Airbnb which is a booking app where you can publish your places and also book someone else places for some time.
 
 # Working
-https://github.com/Techanmolporwal/brostay/assets/89104678/29fc3d61-3ca8-4a1d-9fa0-ea0b538f963d
+https://github.com/BhavKush/BroStay_Web-Application/assets/94281803/33c3646f-96f7-46d8-9623-4b73e5d1e1d8
 
 #Features
 
